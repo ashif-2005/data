@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1095242143091",
+    "project_id": "auth-c2030",
+    "storage_bucket": "auth-c2030.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095242143091:android:0924132ed3231985b7e106",
+        "android_client_info": {
+          "package_name": "com.example.otp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD765gA287VSlLjhw-Yi9JYYx9X_3hYzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
